@@ -117,7 +117,6 @@ def save_screenshot(id,filename):
 
 def add_clip(clips, text, path):
     engine = pyttsx3.init()
-    clips = []
 
     # generate tts and save to file
     audio_name = path + ".wav"
