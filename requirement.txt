@@ -1,0 +1,6 @@
+selenium
+praw
+pyttsx3
+moviepy
+mutagen
+ffmpeg
